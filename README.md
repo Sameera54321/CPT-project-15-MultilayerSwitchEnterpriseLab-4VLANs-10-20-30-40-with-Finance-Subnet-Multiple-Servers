@@ -10,7 +10,7 @@ I’m excited to share my latest Cisco Packet Tracer project – a multilayer sw
 
     2 multilayer switches (e.g., 3560 or 3650) – providing routing between VLANs
 
-    1 Layer 2 switch (2950‑24TT) – connecting end devices
+    1 Layer 3 switch (2950‑24TT) – connecting end devices
 
     3 servers (Server0…Server3) – can host DHCP, DNS, web, or file services
 
