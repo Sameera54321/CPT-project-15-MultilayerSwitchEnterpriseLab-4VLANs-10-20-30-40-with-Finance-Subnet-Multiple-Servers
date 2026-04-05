@@ -1,0 +1,2 @@
+# CPT-project-15-MultilayerSwitchEnterpriseLab-4VLANs-10-20-30-40-with-Finance-Subnet-Multiple-Servers
+I’m excited to share my latest Cisco Packet Tracer project – a multilayer switched enterprise network featuring two multilayer switches, a Layer 2 access switch, four servers, multiple PCs, and a laptop. The network is segmented into four VLANs (10, 20, 30, 40) with a dedicated Finance subnet (192.168.20.0/24).
